@@ -1,6 +1,6 @@
 # CivicEvents+ Video Demonstration
 
-This folder contains the demonstration video for the CivicEvents+ project.
+
 
 **Project:** CivicEvents+ – Accessible City Events & Services Portal
 
